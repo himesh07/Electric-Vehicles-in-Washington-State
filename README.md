@@ -2,6 +2,10 @@
 
 ![image](https://user-images.githubusercontent.com/108557163/235548578-d4aa79d1-0cec-42aa-b41e-4fd2052ee3ce.png)
 
+
+https://github.com/himesh07/Electric-Vehicles-in-Washington-State/assets/108557163/974a4ab4-8703-414a-866c-b528e880b870
+
+
 ## Dataset - (File too big to upload)
 <br>Description
 <br>The dataset used in this project is about Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs). Records refer to vehicles registered by the State of Washington Department of Licensing. Data was downloaded from Data.gov(https://catalog.data.gov/dataset/electric-vehicle-population-data) on Apr. 29, 2023, and it is used under the terms of the Open Data Commons Open Database License (OBbL) v1.0.
