@@ -1,9 +1,9 @@
-# Electric-Vehicles-in-Washington-State
-
-![image](https://user-images.githubusercontent.com/108557163/235548578-d4aa79d1-0cec-42aa-b41e-4fd2052ee3ce.png)
+# Electric-Vehicles-in-Washington-State\
 
 
-https://github.com/himesh07/Electric-Vehicles-in-Washington-State/assets/108557163/974a4ab4-8703-414a-866c-b528e880b870
+
+https://github.com/himesh07/Electric-Vehicles-in-Washington-State/assets/108557163/b6cddf37-acd8-45c1-b452-fe0f68ae4ee1
+
 
 
 ## Dataset - (File too big to upload)
