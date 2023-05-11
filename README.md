@@ -27,7 +27,6 @@ By going through the notebook file, you'll be able to follow the step-by-step pr
 Feel free to explore the notebook and gain valuable insights into electric vehicle adoption and trends in Washington State!
 
 ## Dataset - File too big to upload
-
 <br>Data was downloaded from Data.gov(https://catalog.data.gov/dataset/electric-vehicle-population-data) on Apr. 29, 2023, and it is used under the terms of the Open Data Commons Open Database License (OBbL) v1.0.
 
 Attributes
