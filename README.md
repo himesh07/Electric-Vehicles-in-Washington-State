@@ -6,6 +6,26 @@ https://github.com/himesh07/Electric-Vehicles-in-Washington-State/assets/1085571
 
 
 
+ The notebook file in the GitHub repository Electric-Vehicles-in-Washington-State provides an in-depth exploration of electric vehicles in Washington State using data visualization and analysis techniques.
+
+Here's a breakdown of what you can expect from the notebook file:
+
+1️⃣ Introduction: The notebook begins with an introduction to the topic of electric vehicles in Washington State, including their significance and impact on the environment and transportation sector.
+
+2️⃣ Data Collection: The notebook explains how the data was collected for the analysis. It provides insights into the data sources and the specific attributes captured, such as vehicle make, model, year, range, and charging station locations.
+
+3️⃣ Data Cleaning and Preparation: This section focuses on data cleaning and preparation techniques. It covers processes such as handling missing values, standardizing data formats, and filtering out irrelevant or erroneous entries. This ensures that the data is in a suitable format for analysis.
+
+4️⃣ Exploratory Data Analysis: The notebook delves into exploratory data analysis techniques to gain insights into the electric vehicle landscape in Washington State. It includes visualizations and statistical summaries to showcase trends, distributions, and correlations within the data.
+
+5️⃣ Interactive Visualizations: This section showcases the interactive features of the Altair library. It demonstrates how to create interactive charts using Altair, enabling users to explore the data, zoom in/out, select specific data points, and link multiple visualizations together. These interactive charts enhance the understanding of the data and facilitate dynamic analysis.
+
+6️⃣ Conclusion: The notebook concludes by summarizing the key findings and insights obtained from the analysis. It may also provide recommendations or suggestions for further research or actions related to electric vehicles in Washington State.
+
+By going through the notebook file, you'll be able to follow the step-by-step process of data exploration, cleaning, and visualization using Altair. It offers a hands-on experience and practical guidance for analyzing electric vehicle data specifically in the context of Washington State.
+
+Feel free to explore the notebook and gain valuable insights into electric vehicle adoption and trends in Washington State!
+
 ## Dataset - File too big to upload
 
 <br>Data was downloaded from Data.gov(https://catalog.data.gov/dataset/electric-vehicle-population-data) on Apr. 29, 2023, and it is used under the terms of the Open Data Commons Open Database License (OBbL) v1.0.
