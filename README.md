@@ -25,7 +25,8 @@ Here's a breakdown of what you can expect from the notebook file:
 By going through the notebook file, you'll be able to follow the step-by-step process of data exploration, cleaning, and visualization using Altair. It offers a hands-on experience and practical guidance for analyzing electric vehicle data specifically in the context of Washington State.
 
 Feel free to explore the notebook and gain valuable insights into electric vehicle adoption and trends in Washington State!
-
+<br>
+<br>
 ### Dataset - File too big to upload
 <br>Data was downloaded from Data.gov(https://catalog.data.gov/dataset/electric-vehicle-population-data) on Apr. 29, 2023, and it is used under the terms of the Open Data Commons Open Database License (OBbL) v1.0.
 
